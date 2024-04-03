@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 150px;
+}
+
+h1{
+    margin-bottom: 40px;
+}
+
+.button{
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+    padding: 20px;
+    margin-top: 100px;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+}
+
+h2{
+    margin-top: 40px;
+}
+
+#green{
+    background-color: green;
+}
+#gray{
+    background-color: gray;
+}
+#blue{
+    background-color: blue;
+}
+#orange{
+    background-color: orange;
+}
+#purple{
+    background-color: purple;
+}
